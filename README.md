@@ -1,1 +1,2 @@
-# Zindi
+# Zindi  
+https://zindi.africa/competitions
